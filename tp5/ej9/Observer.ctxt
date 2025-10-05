@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Observer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Observer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n\ seguido
+comment1.target=Observer(java.lang.String,\ Observable)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Observer\r\n
+comment2.params=seguido
+comment2.target=void\ setSeguido(Observable)
+comment3.params=
+comment3.target=Observable\ getSeguido()
+comment4.params=publicacion
+comment4.target=void\ recibirNotificacion(java.lang.String)
+numComments=5

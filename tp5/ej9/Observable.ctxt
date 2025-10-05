@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Observable
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Observable\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n\ seguidores
+comment1.target=Observable(java.lang.String,\ java.util.Vector)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Observable\r\n
+comment2.params=
+comment2.target=java.util.Vector\ getSeguidores()
+comment3.params=seguidores
+comment3.target=void\ setSeguidores(java.util.Vector)
+comment4.params=n
+comment4.target=void\ setNombre(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment6.params=publicacion
+comment6.target=void\ notificar(java.lang.String)
+comment7.params=seguidor
+comment7.target=void\ anadirSeguidor(Observer)
+numComments=8

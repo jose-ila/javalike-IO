@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Folder
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Folder\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ elems
+comment1.target=Folder(java.lang.String,\ java.util.Vector)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Folder\r\n
+comment2.params=v
+comment2.target=void\ setElements(java.util.Vector)
+comment3.params=
+comment3.target=java.util.Vector\ getElements()
+comment4.params=f
+comment4.target=void\ add(Folder)
+comment5.params=f
+comment5.target=void\ add(File)
+comment6.params=f
+comment6.target=void\ remove(Folder)
+comment7.params=f
+comment7.target=void\ remove(File)
+comment8.params=
+comment8.target=float\ size()
+numComments=9
