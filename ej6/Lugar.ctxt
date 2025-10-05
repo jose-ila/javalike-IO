@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lugar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lugar\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Lugar()
+comment2.params=
+comment2.target=java.lang.String\ getLugar()
+comment3.params=nuevoLugar
+comment3.target=void\ setLugar(java.lang.String)
+numComments=4
