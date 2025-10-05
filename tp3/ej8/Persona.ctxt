@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Persona\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ dni\ direccion\ fecha\ sexo
+comment1.target=Persona(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.Date,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Persona\r\n
+comment10.params=
+comment10.target=java.lang.String\ getSexo()
+comment11.params=sexo
+comment11.target=void\ setSexo(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getDNI()
+comment5.params=DNI
+comment5.target=void\ setDNI(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDireccion()
+comment7.params=direccion
+comment7.target=void\ setDireccion(java.lang.String)
+comment8.params=
+comment8.target=java.util.Date\ getFechaNac()
+comment9.params=fechaNac
+comment9.target=void\ setFechaNac(java.util.Date)
+numComments=12

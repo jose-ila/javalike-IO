@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Browser
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Browser\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=currentP\ his\ favs
+comment1.target=Browser(Page,\ History,\ java.util.Vector)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Browser\r\n
+comment2.params=
+comment2.target=Page\ getCurrentPage()
+comment3.params=
+comment3.target=History\ getHistory()
+comment4.params=
+comment4.target=java.util.Vector\ getFavs()
+comment5.params=page
+comment5.target=void\ setCurrentPage(Page)
+comment6.params=history
+comment6.target=void\ setHistory(History)
+comment7.params=favs
+comment7.target=void\ setFavs(java.util.Vector)
+numComments=8

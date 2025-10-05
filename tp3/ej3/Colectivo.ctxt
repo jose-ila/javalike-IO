@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Colectivo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Colectivo\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Colectivo()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Colectivo\r\n
+comment2.params=asientos
+comment2.target=void\ setAsientos(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=tipo
+comment3.target=void\ setTipo(java.lang.String)
+comment4.params=
+comment4.target=int\ getAsientos()
+comment5.params=
+comment5.target=java.lang.String\ getTipo()
+numComments=6

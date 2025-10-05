@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Circulo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Circulo\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=radio
+comment1.target=Circulo(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circulo\r\n
+comment2.params=
+comment2.target=double\ getRadio()
+comment3.params=radio
+comment3.target=void\ setRadio(double)
+comment4.params=
+comment4.target=double\ getArea()
+comment5.params=
+comment5.target=java.lang.String\ getNombreFigura()
+numComments=6

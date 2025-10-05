@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=History
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ History\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=pages
+comment1.target=History(java.util.Vector)
+comment2.params=
+comment2.target=java.util.Vector\ getPages()
+comment3.params=pages
+comment3.target=void\ setPages(java.util.Vector)
+comment4.params=pages
+comment4.target=void\ addPages(java.util.Vector)
+comment5.params=page
+comment5.target=void\ addPage(Page)
+comment6.params=
+comment6.target=void\ deletePages()
+comment7.params=page
+comment7.target=void\ deletePage(Page)
+comment8.params=
+comment8.target=int\ getVisitedPageCount()
+comment9.params=
+comment9.target=Page\ lastPage()
+numComments=10

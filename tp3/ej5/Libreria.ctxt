@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Libreria
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Libreria\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=libros
+comment1.target=Libreria(java.util.Vector)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Libreria\r\n
+comment2.params=libros
+comment2.target=void\ setLibros(java.util.Vector)
+comment3.params=
+comment3.target=java.util.Vector\ getLibros()
+comment4.params=lib
+comment4.target=void\ agregarLibro(Libro)
+comment5.params=lib
+comment5.target=void\ eliminarLibro(Libro)
+comment6.params=
+comment6.target=int\ cantLibros()
+comment7.params=
+comment7.target=int\ cantTotalCopias()
+numComments=8
