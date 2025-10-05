@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DeCarga
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ deCarga\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=peso\ Carga
+comment1.target=DeCarga(double,\ double)
+comment2.params=carga
+comment2.target=void\ setCarga(double)
+comment3.params=
+comment3.target=double\ getCarga()
+comment4.params=
+comment4.target=double\ pesoTotal()
+comment5.params=
+comment5.target=int\ cantPasajeros()
+numComments=6

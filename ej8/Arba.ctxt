@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Arba
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Arba\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Arba()
+comment10.params=
+comment10.target=double\ valorFiscal()
+comment2.params=
+comment2.target=java.util.Vector\ getCobros()
+comment3.params=cobros
+comment3.target=void\ setCobros(java.util.Vector)
+comment4.params=bien
+comment4.target=Cobro\ generarCobroAnual(BienPersonal)
+comment5.params=bien
+comment5.target=void\ agregarCobroAnual(BienPersonal)
+comment6.params=
+comment6.target=double\ sumaCobros()
+comment7.params=cobro
+comment7.target=double\ valorCobro(Cobro)
+comment8.params=
+comment8.target=double\ cobroMayor()
+comment9.params=valor
+comment9.target=java.util.Vector\ cobrosMayoresA(double)
+numComments=11

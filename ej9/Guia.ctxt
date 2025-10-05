@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Guia
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Guia\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ edad\ numMatricula
+comment1.target=Guia(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getMatricula()
+comment3.params=mat
+comment3.target=void\ setMatricula(int)
+numComments=4
